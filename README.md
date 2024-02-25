@@ -1,2 +1,8 @@
 # tea
 aselole
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xeD03FFF3274466e360a763aEd504E6e22094D90F'
+quorum: 1
